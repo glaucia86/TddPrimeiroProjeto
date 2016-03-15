@@ -17,6 +17,7 @@
             return numero1 - numero2;
         }
 
+        //Método criado com o objetivo de criar um teste que falhe
         public int Dividir(int numero1, int numero2)
         {
             return numero1/numero2; 
