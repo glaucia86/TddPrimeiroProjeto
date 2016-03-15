@@ -1,0 +1,9 @@
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\bin\Debug\Application.Domain.Tests.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\bin\Debug\Application.Domain.Tests.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\bin\Debug\Application.Domain.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\bin\Debug\Application.Domain.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\obj\Debug\Application.Domain.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\obj\Debug\Application.Domain.Tests.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\obj\Debug\Application.Domain.Tests.pdb
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Glaucia\Documents\Visual Studio 2013\Projects\Série - TDD\TddPrimeiroProjeto\Application.Domain.Tests\bin\Debug\nunit.framework.xml
