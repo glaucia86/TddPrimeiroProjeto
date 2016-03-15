@@ -34,5 +34,16 @@ namespace Application.Domain.Tests
 
             Assert.That(result, Is.EqualTo(4));
         }
+
+        //Esse teste aqui vai falhar!! Propositalmente!! ;)
+        [Test]
+        public void DevoDividirDoisNumeros()
+        {
+            var sut = new Calculadora();
+
+            var result = sut.Dividir(10, 5);
+
+            Assert.That(result, Is.EqualTo(4));
+        }
     }
 }
