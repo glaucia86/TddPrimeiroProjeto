@@ -17,9 +17,9 @@
             return numero1 - numero2;
         }
 
-        public void Dividir(int numero1, int numero2)
+        public int Dividir(int numero1, int numero2)
         {
-            //Testando o git gui!!!!
+            return numero1/numero2; //Testand......
         }
     }
 }
